@@ -1,0 +1,14 @@
+//
+// Created by cc on 7/12/23.
+//
+
+#ifndef BOTBUSTERS_REBIRTH_CHOREPATHPARSER_H
+#define BOTBUSTERS_REBIRTH_CHOREPATHPARSER_H
+
+
+class ChorePathParser {
+
+};
+
+
+#endif //BOTBUSTERS_REBIRTH_CHOREPATHPARSER_H
